@@ -1,0 +1,18 @@
+{
+  "name": "mongoTest",
+  "version": "1.0.0",
+  "description": "Testing out mongo",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Shadowborn",
+  "dependencies": {
+    "mongodb": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
